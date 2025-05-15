@@ -1,0 +1,30 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {background-color:moccasin;}
+#Wrapper {width: 900px; margin: 1px auto ;background-color:white; padding: 0px;}
+#AWrapper {width: 250px; margin: 25px ; float:left ;background-color:lightgrey; border-top:solid #F30004 10px;} 
+#BWrapper {width: 250px; margin: 25px  ; float:left ; background-color:lightgrey; border-top:solid #2400EB 10px;}
+#CWrapper {width: 250px; margin: 25px ; float:left; background-color:lightgrey; border-top:solid #02FF00 10px;}
+
+#SuperWrapper {width: 950px; margin: 0px auto;background-color:white;padding: 10px;}
+
+#Logo {float: left;}
+
+#Icon {float: right;}
+
+#navigasion {clear: both; word-spacing: 40px; border-top: solid black 1px; border-bottom: solid black 1px; margin-bottom:10px; padding: 10px; font-size:12px;font-family:Arial;}
+
+#navigasion a:link {color:black;}
+#navigasion a:visited {color: black;}
+#navigasion a:hover {color:#f90;}
+#navigasion a {text-decoration-line: none;}
+
+#Kotak1  {float: left; width:900px;}
+#Kotak1 h1 {color:#f90; border-bottom: solid black 0.5px; padding-bottom: 5px;}
+#Kotak1 img {margin:px; border :solid black 0.5px; padding: 0px;}
+#Wrapper
+
+
+
+#Footer {clear:both;text-align:center; border-top: solid black 0.5px;}
